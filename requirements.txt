@@ -1,0 +1,4 @@
+math
+numpy
+sympy
+python=3.13.2
